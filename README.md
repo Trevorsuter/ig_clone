@@ -20,3 +20,6 @@
 - tzinfo-data
 - web-console (>= 4.1.0)
 - webpacker (~> 5.0)
+
+### DB Schema:
+![Screen Shot 2021-08-09 at 5 36 42 PM](https://user-images.githubusercontent.com/72848529/128787378-0af73172-6efa-4619-be4f-c9d5a2d9e5fa.png)
